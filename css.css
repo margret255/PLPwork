@@ -1,0 +1,40 @@
+/* 1. Using an element selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+}
+
+/* 2. Using a class selector */
+.title {
+    color: blue;
+    text-align: center;
+    font-size: 24px;
+}
+
+/* 3. Using an ID selector */
+#description {
+    font-size: 18px;
+    font-style: italic;
+    color: darkgreen;
+}
+
+/* Styling an image */
+.styled-image {
+    width: 300px;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Margin, Padding, and Borders */
+.box {
+    border: 2px solid red;
+    padding: 15px;
+    margin: 20px;
+    background-color: white;
+    text-align: center;
+}
